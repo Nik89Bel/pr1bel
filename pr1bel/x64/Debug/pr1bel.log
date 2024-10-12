@@ -1,0 +1,3 @@
+﻿  pr1bel.cpp
+C:\Users\belih\source\repos\2024.2\pr1bel\pr1bel\pr1bel.cpp(8,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  pr1bel.vcxproj -> C:\Users\belih\source\repos\2024.2\pr1bel\x64\Debug\pr1bel.exe
